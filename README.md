@@ -1,5 +1,5 @@
 # LTOP
-Python code for computing the Linear Theory for Orographic Precipitation (LTOP) in Barstad and Smith (2004). 
+Python code for computing the Linear Theory for Orographic Precipitation (LTOP) in Smith and Barstad (2004). 
 
 ## Method
 1. Select a moist airflow event with some evidence of precipitation
